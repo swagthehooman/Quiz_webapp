@@ -1,7 +1,12 @@
 # Quiz webapp
 
 ## Introduction
-This is a quiz webapp where users can choose the quiz category and difficulty for gameplay. The quiz is of mcq type, with true/false questions. After completion of the quiz, the total score is displayed. 
+This is a quiz webapp where users can choose the quiz category and difficulty for gameplay. The quiz is of mcq type, with true/false questions. After completion of the quiz, the total score is displayed.
+
+## Screenshot
+### customization page
+(./src/assets/UI\Presentation/1.png)
+  
 
 ## User customization
 The categories from which users can choose are:
