@@ -4,12 +4,9 @@
 This is a quiz webapp where users can choose the quiz category and difficulty for gameplay. The quiz is of mcq type, with true/false questions. After completion of the quiz, the total score is displayed.
 
 ## Screenshot
-### customization page
-(/src/assets/screenshot/1.png)
-### quiz page
-(/src/assets/screenshot/2.png)
-### result
-(/src/assets/screenshot/3.png)
+[customization page](/src/assets/screenshot/1.png)
+[quiz page](/src/assets/screenshot/2.png)
+[result](/src/assets/screenshot/3.png)
   
 
 ## User customization
