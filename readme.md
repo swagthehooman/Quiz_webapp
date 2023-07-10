@@ -33,7 +33,7 @@ If the user doesn't have any particular choice, the quiz will generate 10 questi
 The Api used is [Open trivia database](https://opentdb.com/). Refer the documentations for more info.
 
 ## Tech stack
-The project is build using React.js framework, along with axios for promise based http requests. React router dom framework is also used for separation of pages for quiz and customization. For styling, CSS is used.
+The project is build using **React.js** framework, along with **axios** for promise based http requests. **React router dom** framework is also used for separation of pages for quiz and customization. For styling, **CSS** is used. **Vite** for react project build.
 
 ## Deployement
 The project is deployed on Netlify.
