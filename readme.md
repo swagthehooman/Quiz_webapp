@@ -5,7 +5,7 @@ This is a quiz webapp where users can choose the quiz category and difficulty fo
 
 ## Screenshot
 ### customization page
-(./src/assets/UI\Presentation/1.png)
+(./src/assets/screenshot/1.png)
   
 
 ## User customization
