@@ -1,0 +1,29 @@
+.card {
+    background-color: #E9ECF4;
+    padding: 3rem;
+    border-radius: 1rem;
+}
+
+.question{
+    margin: 0.8rem 0 0.8rem 0;
+}
+
+.control-panel{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+    margin: 1.2rem 0 0 0;
+}
+
+.control-button{
+    border-radius: 1rem;
+    border: 3px solid #E9ECF4;
+    width: 30%;
+    min-width:90px;
+    padding: 0.3rem;
+    background-color: rgba(250, 158, 152, 1);
+    cursor: pointer;
+}
+

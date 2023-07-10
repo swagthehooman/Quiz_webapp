@@ -1,0 +1,21 @@
+.answer-list{
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+}
+
+.answer{
+    text-align: left;
+    padding: 0.5rem;
+    border-radius: 0.4rem;
+    border: 3px solid #E9ECF4;
+    /* background-color: #f1554c; */
+    color: #03001C;
+    background: rgb(241, 85, 76);
+    background: linear-gradient(90deg, rgba(241, 85, 76, 1) 38%, rgba(250, 158, 152, 1) 100%);
+    cursor: pointer;
+}
+
+.answer:is(:hover,:focus){
+    border: 3px solid rgb(11, 35, 97);
+}
